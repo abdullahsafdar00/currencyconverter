@@ -77,9 +77,6 @@ button {
     color: white;
 }
 
-button:active {
-    background-color: grey;
-}
 
 #ChangeArrow {
     cursor: pointer;
